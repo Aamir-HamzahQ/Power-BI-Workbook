@@ -62,6 +62,7 @@ Interactive elements include:
 - **Slicers** for date, region, and product filtering  
 - **Cross‑highlighting** between visuals  
 - **Drill‑through pages** for deeper detail  
+<img width="351" height="481" alt="image" src="https://github.com/user-attachments/assets/e150ea69-9527-4346-b78b-1e82e6945ed7" />
 
 ---
 
